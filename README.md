@@ -8,6 +8,10 @@ It provides two ratios:
 
 ## Usage
 
+```
+pip install -r requirements.txt
+```
+
 ```python
 import pickle
 from your_module import getBasin_ratio
