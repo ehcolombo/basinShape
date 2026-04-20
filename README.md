@@ -6,6 +6,8 @@ It provides two ratios:
 - Hydrology-based ratio: aligns the basin along the main flow direction (outlet → divide)
 - PCA ratio: purely geometric, based on the basin shape
 
+Data for the 100-largest (Hydrosheds LVL6) is summarized in ./data 
+
 ## Usage
 
 ```
